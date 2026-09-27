@@ -1,6 +1,5 @@
 site_name: BoronEngine Documentation
 
-
 theme:
   name: material
   palette:
