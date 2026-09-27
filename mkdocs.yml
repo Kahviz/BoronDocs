@@ -2,6 +2,9 @@ site_name: BoronEngine Documentation
 
 theme:
   name: material
+  logo: assets/BoronEngineIcon.png
+  favicon: assets/BoronEngineIcon.png
+
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -14,3 +17,11 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Getting Started: getting-started/getting-started.md
+      - Requirements: getting-started/requirements.md
+      - Downloading the .exe: getting-started/download.md
+      - Downloading the source code: getting-started/source-code.md
