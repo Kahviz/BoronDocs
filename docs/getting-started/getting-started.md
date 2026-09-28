@@ -14,5 +14,8 @@ To run BoronEngine, you have two options:
 
    Follow these steps:
 
-   1. [Check the build requirements](requirements.md)
-   2. [Download and build the source code](source-code.md)
+   1: [Check the build requirements](requirements.md)
+
+   2: [Download and build the source code](source-code.md)
+
+   3: Then you all good!
